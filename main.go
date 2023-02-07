@@ -1,5 +1,9 @@
 package main
 
+import "fmt"
+
 func main() {
-	fmt.println("hello github!")
+
+	fmt.Println("hello github!")
+
 }
